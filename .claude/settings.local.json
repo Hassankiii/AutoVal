@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(cd:*)",
+      "Bash(export:*)",
+      "Bash(cp:*)",
+      "Bash(gh:*)",
+      "Bash(netlify:*)",
+      "Bash(winget:*)"
+    ]
+  }
+}
