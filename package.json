@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "scrape": "tsx scripts/scrape.ts",
-    "process-data": "tsx scripts/processData.ts"
+    "process-data": "tsx scripts/processData.ts",
+    "seed-data": "tsx scripts/generateSeedData.ts"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",
